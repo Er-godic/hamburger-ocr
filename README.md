@@ -1,6 +1,5 @@
 # hamburger-ocr
 
-<<<<<<< HEAD
 This project is going to be my attempt at using ocr to read Moon Runes. Not sure if its ready for others yet, I built it in Arch Linux. 
 Still some kinks to work out to make it user friendly. 
 This was a project for myself so that I could play some japanese games but I might spruce things up over time. So it works well for ME.
