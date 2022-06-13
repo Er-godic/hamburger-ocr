@@ -2,7 +2,7 @@ import requests
 import sys
 
 api = "deepL"
-auth_key = "key here"
+auth_key = "2bb38a89-9c0a-749b-9ad4-9c5c75d6db6e:fx"
 # api = "deepL_pro"
 
 raw = sys.argv[1] + '\n'

@@ -5,9 +5,9 @@ Still some kinks to work out to make it user friendly.
 This was a project for myself so that I could play some japanese games but I might spruce things up over time. So it works well for ME.
 But you might have to go through a few hoops depending on how shoddy my code is.
 
-Dependencies are Leptonica, Tensorflow for the OCR 
+Dependencies are Leptonica, Tesseract for the OCR 
 https://github.com/DanBloomberg/leptonica 
-https://github.com/tensorflow/tensorflow 
+https://github.com/tesseract-ocr
 Make sure to add horizontal Japanese model file to the correct directory.
 
 Need Python 3 and Python requests library to run script that uses some API for translation
